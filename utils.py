@@ -49,7 +49,6 @@ class HeadHunter:
                         'vacancy_url': vac_url
                     }
                     vacancy_list.append(dict_vac)
-                    print(dict_vac)
             json.dump(vacancy_list, file, ensure_ascii=False, indent=4)
         with open('companies.json', 'r', encoding='UTF-8') as file:
             data = json.load(file)
