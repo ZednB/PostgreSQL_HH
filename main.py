@@ -43,6 +43,8 @@ def main():
                     print(*answer)
                 break
             elif user_ans == 5:
+                keyword = input("Введите ключевое слово: ").lower()
+                database = DBManager(hh_vac, keyword)
                 answer_5 = database.get_vacancies_with_keyword()
                 for answer in answer_5:
                     print(*answer)

@@ -3,21 +3,21 @@
         "company_id": "3529",
         "company_name": "СБЕР",
         "company_url": "https://hh.ru/employer/3529",
-        "vacancy_name": "Специалист Сбер (удаленно)",
-        "vacancy_city": "Отрадный (Самарская область)",
-        "salary_from": 47000,
-        "salary_to": 77000,
-        "vacancy_url": "https://hh.ru/vacancy/86335297"
-    },
-    {
-        "company_id": "3529",
-        "company_name": "СБЕР",
-        "company_url": "https://hh.ru/employer/3529",
         "vacancy_name": "Специалист контактного центра (удаленно)",
         "vacancy_city": "Кинель",
         "salary_from": 47000,
         "salary_to": 77000,
         "vacancy_url": "https://hh.ru/vacancy/86335149"
+    },
+    {
+        "company_id": "3529",
+        "company_name": "СБЕР",
+        "company_url": "https://hh.ru/employer/3529",
+        "vacancy_name": "Специалист Сбер (удаленно)",
+        "vacancy_city": "Отрадный (Самарская область)",
+        "salary_from": 47000,
+        "salary_to": 77000,
+        "vacancy_url": "https://hh.ru/vacancy/86335297"
     },
     {
         "company_id": "3529",
@@ -53,21 +53,11 @@
         "company_id": "3529",
         "company_name": "СБЕР",
         "company_url": "https://hh.ru/employer/3529",
-        "vacancy_name": "Старший клиентский менеджер (платформа Лось)",
+        "vacancy_name": "Старший клиентский менеджер (м. Дмитровская)",
         "vacancy_city": "Москва",
         "salary_from": 115000,
         "salary_to": 0,
-        "vacancy_url": "https://hh.ru/vacancy/90746916"
-    },
-    {
-        "company_id": "3529",
-        "company_name": "СБЕР",
-        "company_url": "https://hh.ru/employer/3529",
-        "vacancy_name": "Старший клиентский менеджер",
-        "vacancy_city": "Москва",
-        "salary_from": 115000,
-        "salary_to": 0,
-        "vacancy_url": "https://hh.ru/vacancy/90747015"
+        "vacancy_url": "https://hh.ru/vacancy/90746777"
     },
     {
         "company_id": "3529",
@@ -83,11 +73,21 @@
         "company_id": "3529",
         "company_name": "СБЕР",
         "company_url": "https://hh.ru/employer/3529",
-        "vacancy_name": "Старший клиентский менеджер (м. Дмитровская)",
+        "vacancy_name": "Старший клиентский менеджер (м. Внуково)",
         "vacancy_city": "Москва",
         "salary_from": 115000,
         "salary_to": 0,
-        "vacancy_url": "https://hh.ru/vacancy/90746777"
+        "vacancy_url": "https://hh.ru/vacancy/90746020"
+    },
+    {
+        "company_id": "3529",
+        "company_name": "СБЕР",
+        "company_url": "https://hh.ru/employer/3529",
+        "vacancy_name": "Старший клиентский менеджер",
+        "vacancy_city": "Москва",
+        "salary_from": 115000,
+        "salary_to": 0,
+        "vacancy_url": "https://hh.ru/vacancy/90747015"
     },
     {
         "company_id": "3529",
@@ -574,16 +574,6 @@
         "company_name": "Почта России",
         "company_url": "https://hh.ru/employer/4352",
         "vacancy_name": "Водитель-курьер",
-        "vacancy_city": "Пушкино (Московская область)",
-        "salary_from": 130400,
-        "salary_to": 150000,
-        "vacancy_url": "https://hh.ru/vacancy/91550218"
-    },
-    {
-        "company_id": "4352",
-        "company_name": "Почта России",
-        "company_url": "https://hh.ru/employer/4352",
-        "vacancy_name": "Водитель-курьер",
         "vacancy_city": "Москва",
         "salary_from": 130400,
         "salary_to": 150000,
@@ -593,11 +583,21 @@
         "company_id": "4352",
         "company_name": "Почта России",
         "company_url": "https://hh.ru/employer/4352",
-        "vacancy_name": "Оператор по работе с клиентами",
-        "vacancy_city": "Киров (Кировская область)",
-        "salary_from": 28750,
-        "salary_to": 32500,
-        "vacancy_url": "https://hh.ru/vacancy/86182850"
+        "vacancy_name": "Водитель-курьер",
+        "vacancy_city": "Пушкино (Московская область)",
+        "salary_from": 130400,
+        "salary_to": 150000,
+        "vacancy_url": "https://hh.ru/vacancy/91550218"
+    },
+    {
+        "company_id": "4352",
+        "company_name": "Почта России",
+        "company_url": "https://hh.ru/employer/4352",
+        "vacancy_name": "Мобильный оператор в почтовое отделение",
+        "vacancy_city": "Москва",
+        "salary_from": 85500,
+        "salary_to": 102000,
+        "vacancy_url": "https://hh.ru/vacancy/90839234"
     },
     {
         "company_id": "3501302",
@@ -814,20 +814,20 @@
         "company_name": "Северсталь",
         "company_url": "https://hh.ru/employer/6041",
         "vacancy_name": "Руководитель обособленного подразделения / Директор филиала",
-        "vacancy_city": "Ярославль",
+        "vacancy_city": "Череповец",
         "salary_from": 100000,
         "salary_to": 0,
-        "vacancy_url": "https://hh.ru/vacancy/91527417"
+        "vacancy_url": "https://hh.ru/vacancy/91528407"
     },
     {
         "company_id": "6041",
         "company_name": "Северсталь",
         "company_url": "https://hh.ru/employer/6041",
         "vacancy_name": "Руководитель обособленного подразделения / Директор филиала",
-        "vacancy_city": "Череповец",
+        "vacancy_city": "Ярославль",
         "salary_from": 100000,
         "salary_to": 0,
-        "vacancy_url": "https://hh.ru/vacancy/91528407"
+        "vacancy_url": "https://hh.ru/vacancy/91527417"
     },
     {
         "company_id": "6041",
@@ -983,11 +983,11 @@
         "company_id": "4759512",
         "company_name": "Перекресток Впрок",
         "company_url": "https://hh.ru/employer/4759512",
-        "vacancy_name": "Комплектовщик",
-        "vacancy_city": "Снегири",
-        "salary_from": 80000,
+        "vacancy_name": "Специалист по сопровождению B2B клиентов",
+        "vacancy_city": "Нижний Новгород",
+        "salary_from": 51000,
         "salary_to": 0,
-        "vacancy_url": "https://hh.ru/vacancy/91275280"
+        "vacancy_url": "https://hh.ru/vacancy/90939219"
     },
     {
         "company_id": "4759512",

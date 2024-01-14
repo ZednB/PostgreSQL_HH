@@ -199,7 +199,7 @@ class DBManager:
             with conn.cursor() as cur:
                 cur.execute(f"""SELECT vacancy_name, vacancy_city, vacancy_url
                             FROM vacancy
-                            WHERE lower(vacancy_name) LIKE '%{self.keyword}%""")
+                            WHERE lower(vacancy_name) LIKE '%{self.keyword}%' """)
 
                 raws = cur.fetchall()
         cur.close()
